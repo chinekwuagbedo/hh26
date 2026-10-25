@@ -3,7 +3,7 @@
 Red Sea is a React website built with Vite. It runs in a browser and no longer uses Expo or native mobile tooling.
 
 ## Run on Windows
-1. If connected to TAMU_Wifi, just run http://localhost:5173 (very much preferred)
+1. If connected to TAMU_Wifi, just run http://10.244.252.161:5173/ (very much preferred) I will be keeping the server open from approximately 11:45am-4pm
 
 OR
 
