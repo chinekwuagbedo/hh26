@@ -3,6 +3,9 @@
 Red Sea is a React website built with Vite. It runs in a browser and no longer uses Expo or native mobile tooling.
 
 ## Run on Windows
+1. If connected to TAMU_Wifi, just run http://localhost:5173 (very much preferred)
+
+OR
 
 1. Install Node.js (20.19+ or 22.12+).
 2. Open PowerShell in this project folder and install packages:
