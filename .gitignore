@@ -1,0 +1,32 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local data left from the former Expo workspace
+.expo/
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# typescript
+*.tsbuildinfo
+
+# Downloaded asset archives (the extracted assets are used by the site)
+/aquino.zip
+/flyff.zip
+/assets/*.zip
